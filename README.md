@@ -1,6 +1,6 @@
-## Curriculum for learning EDM production
+# Curriculum for learning EDM production
 
-### Introduction
+## Introduction
 
 The idea for compiling this curriculum is to provide a structured plan for self taught music producers,
 specifically computer musicians.
@@ -11,7 +11,7 @@ handy for others.
 I've listed free and paid resources at the end of each section. I aim to find the best quality free resources,
 so that in theory, one could master the subject with limited resources.
 
-### Community
+## Community
 
 Learning together is better, more motivating. Let's build a community!
 
@@ -19,20 +19,20 @@ Learning together is better, more motivating. Let's build a community!
 
 https://discord.gg/PpRJZ
 
-### Goals
+## Goals
 
 By the end of this course, the student will be able to produce electronic music to a professional standard.
 
-### Basics
+## Basics
 
 List of things you need to get started (bare minimum)
 
-#### Hardware
+### Hardware
 * Computer (specs?)
 * Headphones (specs?)
 * Speakers (specs?)
 
-#### Software
+### Software
 * DAW
 	* Logic
 	* Ableton
@@ -41,9 +41,9 @@ List of things you need to get started (bare minimum)
 	
 TO DO: links to free / trials.
 
-### Course plan
+## Course plan
 
-#### Learn to use your DAW
+### Learn to use your DAW
 
 Familiarize yourself with your chose DAW by focusing on these aspects:
 
@@ -51,7 +51,7 @@ By the end of this module you should be able to:
 
 TO DO : expected level of proficiency in (list areas useful to EDM prod )
 
-#### Music theory
+### Music theory
 
 * Keys and scales
 * Intervals (tones/semitones)
@@ -100,7 +100,7 @@ TO DO : expected level of proficiency in (list areas useful to EDM prod )
 
 **Paid resources:**
 
-#### Mixing
+### Mixing
 
 TO DO
 
@@ -113,7 +113,7 @@ TO DO : expected level of proficiency in (list areas useful to EDM prod )
 
 **Paid resources:**
 
-#### Mastering
+### Mastering
 
 By the end of this module you should be able to:
 
