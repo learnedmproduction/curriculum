@@ -57,17 +57,23 @@ TO DO : expected level of proficiency in (list areas useful to EDM prod )
 **Free resources:**
 
 http://pianoforedm.com
+
 https://www.coursera.org/learn/edinburgh-music-theory
+
 http://edmprod.com/music-theory-the-tldr-version
+
 https://gumroad.com/l/tldrmusic
 
 **Paid resources:**
 
 Books
+
 http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118990943.html
 
 Web
+
 http://www.musictheory.net
+
 https://www.hooktheory.com
 
 #### Production
