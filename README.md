@@ -17,27 +17,31 @@ By the end of this course, the student will be able to produce electronic music 
 
 ### Basics
 
+List of things you need to get started (bare minimum)
+
 #### Hardware
-* Computer
-* Headphones
-* Speakers
+* Computer (specs?)
+* Headphones (specs?)
+* Speakers (specs?)
 
 #### Software
 * DAW
 	* Logic
 	* Ableton
 	* Reaper
+	* ...
+	
+TO DO: links to free / trials.
 
 ### Course plan
 
 #### Learn to use your DAW
 
 Familiarize yourself with your chose DAW by focusing on these aspects:
-* 
 
 By the end of this module you should be able to:
 
-
+TO DO : expected level of proficiency in (list areas useful to EDM prod )
 
 #### Music theory
 
@@ -48,7 +52,7 @@ By the end of this module you should be able to:
 
 By the end of this module you should be able to:
 
-(describe expected level of knowledge for composing meoldies and chord progressions)
+TO DO : expected level of proficiency in (list areas useful to EDM prod )
 
 **Free resources:**
 
@@ -68,10 +72,40 @@ https://www.hooktheory.com
 
 #### Production
 
-TO DO
+* Sound design
+* Drum programming
+* Arrangement / structure
+* Tracks ( melody, chords, bassline, drums )
+
+By the end of this module you should be able to:
+
+TO DO : expected level of proficiency in (list areas useful to EDM prod )
+
+**Free resources:**
+
+
+**Paid resources:**
 
 #### Mixing
 
 TO DO
 
+By the end of this module you should be able to:
+
+TO DO : expected level of proficiency in (list areas useful to EDM prod )
+
+**Free resources:**
+
+
+**Paid resources:**
+
 ### Mastering
+
+By the end of this module you should be able to:
+
+TO DO : expected level of proficiency in (list areas useful to EDM prod )
+
+**Free resources:**
+
+
+**Paid resources:**
