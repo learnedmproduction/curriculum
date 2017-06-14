@@ -11,6 +11,14 @@ handy for others.
 I've listed free and paid resources at the end of each section. I aim to find the best quality free resources,
 so that in theory, one could master the subject with limited resources.
 
+### Community
+
+Learning together is better, more motivating. Let's build a community!
+
+**Discord**
+
+https://discord.gg/PpRJZ
+
 ### Goals
 
 By the end of this course, the student will be able to produce electronic music to a professional standard.
