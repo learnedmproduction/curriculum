@@ -113,7 +113,7 @@ TO DO : expected level of proficiency in (list areas useful to EDM prod )
 
 **Paid resources:**
 
-### Mastering
+#### Mastering
 
 By the end of this module you should be able to:
 
